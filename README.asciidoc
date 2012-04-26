@@ -32,7 +32,6 @@ Thanks!
 ** http://stackoverflow.com/questions/4352548/how-to-unlock-the-screen-when-broadcastreceiver-is-called
 ** http://thinkandroid.wordpress.com/2010/01/24/handling-screen-off-and-screen-on-intents/
 
-////
 == Screencasts
 
 You can download the screencasts for the class using the following links:
@@ -41,7 +40,6 @@ You can download the screencasts for the class using the following links:
 * http://marakana.com/external/video/2012-04-23-internals/day1-part-1.mov
 * http://marakana.com/external/video/2012-04-23-internals/day1-part-2.mov
 * http://marakana.com/external/video/2012-04-23-internals/day1-part-3.mov
-* http://marakana.com/external/video/2012-04-23-internals/day1-part-4.mov
 
 .Day 2
 * http://marakana.com/external/video/2012-04-23-internals/day2-part-1.mov
@@ -59,6 +57,3 @@ You can download the screencasts for the class using the following links:
 * http://marakana.com/external/video/2012-04-23-internals/day4-part-1.mov
 * http://marakana.com/external/video/2012-04-23-internals/day4-part-2.mov
 * http://marakana.com/external/video/2012-04-23-internals/day4-part-3.mov
-* http://marakana.com/external/video/2012-04-23-internals/day4-part-4.mov
-
-////
